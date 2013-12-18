@@ -6,7 +6,7 @@
   This example code is in the public domain.
   Share, it's happiness !
 
-  Note : average consumption ?? ma on 12VDC.
+  Note : average consumption 65 ma on 12VDC.
   With cards : Arduino UNO, 
                Cellular shield with SM5100B (i use Sparkfun boards), 
                Seedstudio relay shield V2.0
