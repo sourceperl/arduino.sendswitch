@@ -7,7 +7,7 @@
   Share, it's happiness !
 
   Note : average consumption 65 ma on 12VDC.
-  With cards : Arduino UNO, 
+  With cards : OLIMEXINO-328,
                Cellular shield with SM5100B (i use Sparkfun boards), 
                Seedstudio relay shield V2.0
                
